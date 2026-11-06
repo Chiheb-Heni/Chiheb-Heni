@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiheb Heni</h1>
-<h3 align="center">I am currently in my final year pursuing a licence degree in Computer Science with a specialization in Software Engineering</h3>
+<h3 align="center">Computer Science graduate holding a Licence degree in Software Engineering and Information Systems, with a strong interest in software development and IT systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiheb-heni&label=Profile%20views&color=0e75b6&style=flat" alt="chiheb-heni" /> </p>
 
